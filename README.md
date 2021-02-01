@@ -1,4 +1,4 @@
-# ml_interpretability
+# Machine Learning Interpretability
 
 Examples of Machine Learning interpretability libraries.
 
